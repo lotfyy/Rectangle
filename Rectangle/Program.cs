@@ -35,6 +35,8 @@ namespace Rectangle
             Rectangle R = new Rectangle(Longeur, Largeur);
             Console.Out.WriteLine("Le perimetre = " + R.Perimetre());
             Console.Out.WriteLine("La surface = " + R.Surface());
+            Console.Out.WriteLine("La sdd = " + R.Surface());
+
 
 
 
